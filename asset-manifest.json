@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Summify/static/css/main.1eab186e.css",
+    "main.js": "/Summify/static/js/main.cf109fd6.js",
+    "index.html": "/Summify/index.html",
+    "main.1eab186e.css.map": "/Summify/static/css/main.1eab186e.css.map",
+    "main.cf109fd6.js.map": "/Summify/static/js/main.cf109fd6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1eab186e.css",
+    "static/js/main.cf109fd6.js"
+  ]
+}
